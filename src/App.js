@@ -3,6 +3,8 @@ import './App.css';
 import WebcamCapture from "./WebcamCapture";
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
 import Preview from "./Preview";
+import Chats from "./Chats";
+import Chat from "./Chat";
 
 
 function App() {
